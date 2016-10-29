@@ -3,9 +3,35 @@
 div {
     height: 100px;
     width: 100px;
-    background-color: #f00;
     border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Verdana, Arial, Sans-Serif;
+    margin-right: 5px;
 }
-#green {
+#ready {
     background-color: #080;
+    color: #fff;
 }
+#notready {
+    background-color: #f00;
+    color: #fff;
+}
+
+button {
+    background-color: #f00;
+    opacity: .5;
+    height: 50px;
+    width: 90px;
+    color: #fff;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
