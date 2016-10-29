@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+div {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
+
+#red {
+	background-color: #f00;
+}
+#blue {
+	background-color: #00f;
+}
+#yellow {
+	background-color: #E2BE22;
+}
+#green {
+	background-color: #008800;
+}
