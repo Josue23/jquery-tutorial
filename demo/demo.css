@@ -4,3 +4,7 @@ a {
     text-decoration: none;
     padding: 5px;
 }
+
+a.test {
+    font-weight: bold;
+}

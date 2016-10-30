@@ -16,7 +16,8 @@ $(document).ready(function() {
 });
 
 // Adding and Removing an HTML Class
-
+$("a").addClass("test");
+$("a").removeClass('test');
 
 
 
