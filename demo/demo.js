@@ -20,7 +20,16 @@ $("a").addClass("test");
 $("a").removeClass('test');
 
 
+// Special Effects
+// The link slowly disappears when clicked
+$("a").click(function(event) {
+    event.preventDefault();
+    $(this).hide("slow");
+});
 
+
+
+// Callbacks and Functions
 
 
 
